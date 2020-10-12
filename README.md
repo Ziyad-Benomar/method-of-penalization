@@ -1,5 +1,5 @@
 # method-of-penalization
-Solving a heat equation by imposing a constraint on a sub-domain, using a variational method   
+Solving a heat equation where a constraint on a sub-domain is imposed, using variational methods  
 (Feb 2020)  
 This topic is proposed by François Alouges as a part of the MAP431 course at the Ecole Polytechnique "Variational analysis of partial differential equations".
 
